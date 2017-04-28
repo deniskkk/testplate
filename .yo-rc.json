@@ -1,0 +1,10 @@
+{
+  "generator-ngx-app": {
+    "version": "1.2.0",
+    "props": {
+      "appName": "clean",
+      "auth": true,
+      "projectName": "clean"
+    }
+  }
+}
